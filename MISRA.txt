@@ -1,0 +1,8 @@
+"../APP/main.c", line 3: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+'Finished building: ../APP/main.c'
+' '
+<Linking>
+'Finished building target: CAR_PROJECT.out'
+' '
+
+**** Build Finished ****
